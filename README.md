@@ -1,10 +1,10 @@
 ## Welcome to GitHub Pages
 
-This is my birthday greetings given to me by Joey Rivera 
+This is Birthday Greetings.  Literally takes a minute to customize.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. 
 
 ### Acknowledgement
 
